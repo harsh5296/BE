@@ -13,5 +13,3 @@
 
 6. Kill or close the program if connection errors appears and restart it.
  
-# Candy-Crush-AI-Minimax-Agent
-# Candy-Crush-AI-Minimax-Agent
